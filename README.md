@@ -5,3 +5,5 @@
 (2) Flowchart dan pseudocode dari proses pengambilang uang pada mesin ATM. menggunakan switch. link dari tugas digenerate dengan bantuan javascript
 
 (3) Perulangan, array dan object
+
+(3) Perulangan, array dan object
